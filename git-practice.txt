@@ -1,1 +1,2 @@
 I am learning git push and pull
+I am learning git pull in git hub repo
